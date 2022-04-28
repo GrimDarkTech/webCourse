@@ -1,4 +1,3 @@
 # webCourse
 Web basics
-
-![](https://kms0207.github.io/webCourse)
+[Chek this out](https://kms0207.github.io/webCourse)
